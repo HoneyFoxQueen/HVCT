@@ -11,4 +11,4 @@ HVCT was created precisely to solve this hassle. Imagine being able to use your 
 
 The HVCT project was created thanks to the [IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) library for Arduino, available under the [MIT license](https://github.com/Arduino-IRremote/Arduino-IRremote/blob/master/LICENSE)
 
-&#x1F30E; [Original version](https://github.com/HoneyFoxQueen/HVCT/README.md)
+&#x1F30E; [Original version](https://github.com/HoneyFoxQueen/HVCT/blob/main/README.md)
