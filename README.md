@@ -8,3 +8,4 @@ HVCT nasce proprio per risolvere questo fastidio. Immagina di poter usare il tel
 
 Il progetto HVCT è stato realizzato grazie alla libreria per Arduino "IRremote" disponibile sotto licenza MIT (https://github.com/Arduino-IRremote/Arduino-IRremote/blob/master/LICENSE)
 
+&#x1F30E; [Google Translate](https://translate.google.com/translate?sl=it&u=https://github.com/HoneyFoxQueen/HVCT)
